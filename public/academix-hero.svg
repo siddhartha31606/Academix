@@ -1,0 +1,27 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#3B82F6" />
+      <stop offset="100%" stop-color="#0EA5E9" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1200" height="900" rx="72" fill="url(#bg)" fill-opacity="0.18" />
+  <circle cx="240" cy="200" r="180" fill="#ffffff" fill-opacity="0.08" />
+  <circle cx="940" cy="220" r="120" fill="#ffffff" fill-opacity="0.08" />
+  <circle cx="980" cy="680" r="210" fill="#ffffff" fill-opacity="0.08" />
+
+  <rect x="220" y="250" width="760" height="460" rx="32" fill="#0F172A" fill-opacity="0.18" />
+  <rect x="250" y="280" width="700" height="400" rx="24" fill="#E2E8F0" fill-opacity="0.85" />
+  <rect x="270" y="300" width="660" height="360" rx="18" fill="#1E40AF" fill-opacity="0.9" />
+
+  <rect x="330" y="620" width="540" height="60" rx="30" fill="#0F172A" fill-opacity="0.22" />
+  <rect x="350" y="634" width="500" height="32" rx="16" fill="#ffffff" fill-opacity="0.65" />
+
+  <text x="600" y="510" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="92" font-weight="800" fill="#FFFFFF">
+    Academix
+  </text>
+
+  <path d="M850 200 L1040 140 L1100 220 L910 280 Z" fill="#111827" fill-opacity="0.85" />
+  <rect x="910" y="200" width="14" height="90" fill="#F59E0B" />
+  <circle cx="917" cy="295" r="8" fill="#F59E0B" />
+</svg>
